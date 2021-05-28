@@ -1,0 +1,43 @@
+{
+    "address": "",
+    "name": "Beezu",
+    "description": "Exciting NFT battle and breeding game in the context of a DAO.",
+    "token": {
+      "logo": "https://cdn.discordapp.com/icons/771191595898241035/c6813564c6a74ce8b931268986d693b9.webp?size=128"
+    },
+    "wrappableToken": {
+      "logo": ""
+    },
+    "logo": "",
+    "logo_type": "",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/x5CT2cbMYW"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/sand3sh/ksh-react-app"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/beezugame"
+        },
+        {
+          "label": "Telegram",
+          "link": ""
+        },
+        {
+          "label": "Forum",
+          "link": "https://forum.1hive.org/"
+        }
+      ],
+      "documentation": [
+        {
+          "label": "FAQs",
+          "link": ""
+        }
+      ]
+    }
+  }
